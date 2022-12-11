@@ -36,3 +36,6 @@ just copy the Activation response and paste into Burp suite Professional
 hence you successfully registered !
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/107274773/206929419-de606b90-6cc0-45fa-b8df-cc902748971b.png)
+
+
+Still You Have Any Query just comment down it
