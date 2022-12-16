@@ -2,9 +2,10 @@
 Introducing M-Security its a Key Generator and Loader for Brup Suite Professional , it contain Complete Patched
 
 # Linux
-sudo apt update.
-sudo apt upgrade.
-sudo chmod +x install.sh.
+ sudo apt update.
+ sudo apt upgrade.
+ sudo chmod +x install.sh.
+ sudo ./install.sh
 
 # Windows 
 Open Windows_setup.ps1 using "Admin Terminal"
